@@ -1,19 +1,34 @@
 <div align="center">
 
-<!-- Top Waving Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2e7d32&height=200&section=header&text=Hello%20World,%20I'm%20Pooja!&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+<!-- Top Waving Capsule Banner (Pink to Yellow Custom Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ffb6c1,ffd700,ffae42&height=200&section=header&text=Hello%20World,%20I'm%20Pooja!&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <br/>
 
 <!-- Inline Badge Bar -->
-<a href="https://www.linkedin.com/in/pooja-lingwat-4a04b2255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> • 
-<a href="https://www.credly.com/badges/6df1a90e-be8b-479c-8af2-c224c6dddc2e"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" /></a> • 
-<a href="https://www.hackerrank.com/profile/pooja_lingwat101"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pooja-lingwat-4a04b2255/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" /></a> • 
+<a href="https://www.credly.com/badges/6df1a90e-be8b-479c-8af2-c224c6dddc2e"><img src="https://img.shields.io/badge/Credly-FFD700?style=flat-square&logo=credly&logoColor=black" /></a> • 
+<a href="https://www.hackerrank.com/profile/pooja_lingwat101"><img src="https://img.shields.io/badge/HackerRank-FF1493?style=flat-square&logo=hackerrank&logoColor=white" /></a>
 
 <br/><br/>
 <b>3rd Year Computer Science Undergrad @ MIT-WPU</b>
 
 </div>
+
+---
+
+### 💻 Completed Projects
+
+- **UniPocket Engine** 🚀  
+  Full-stack personal finance web application built with a **Python (Flask)** backend, normalized **MySQL** schema architecture, stored procedures, and custom triggers.  
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://unipocket-web.vercel.app/)
+
+---
+
+### ⚡ Currently Working On
+
+- **Data Shuffling Attack Prevention:** Developing synthetic data generation pipelines and machine learning models for detecting data shuffling threats.
+- **Data Structures & Algorithms (DSA):** Solving algorithmic problems in C++ focusing on graph algorithms, dynamic programming, and optimization techniques.
 
 ---
 
@@ -25,14 +40,6 @@
 
 ---
 
-### 💻 Development & Engineering Projects
-
-- **UniPocket Engine:** Personal finance backend built with **Python (Flask)**, relational **MySQL** schema design, stored procedures, and triggers.
-- **Systems & Data Security:** Development work on synthetic data pipelines & attack detection models for data shuffling prevention.
-- **Core CS Fundamentals:** Data Structures & Algorithms (C++), Relational Databases, and Computer Networking topology setups.
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** Python, C++, SQL, JavaScript, HTML/CSS
@@ -41,37 +48,24 @@
 
 ---
 
-### 🏆 Verified Certifications & Skill Badges
+### 🏆 Verified Certifications & Badges
 
 <div align="left">
 
-  <!-- Verified Credly Badge -->
   <a href="https://www.credly.com/badges/6df1a90e-be8b-479c-8af2-c224c6dddc2e" target="_blank">
-    <img src="https://images.credly.com/images/154fa781-a83f-42bb-a419-5a1ed7508fc6/Cisco_Badge.png" width="95" alt="Cisco Packet Tracer Badge" title="Cisco Packet Tracer Verified Badge" />
+    <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-FFD700?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Packet Tracer Badge" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- HackerRank Badges -->
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/pooja_lingwat101" target="_blank">
-    <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-ec8d73d2a7.png" width="95" alt="HackerRank Problem Solving" title="HackerRank Problem Solving" />
+    <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-FF69B4?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Problem Solving" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/pooja_lingwat101" target="_blank">
-    <img src="https://hrcdn.net/fcore/assets/badges/cpp-badge-a14a2c918b.png" width="95" alt="HackerRank C++" title="HackerRank C++" />
+    <img src="https://img.shields.io/badge/HackerRank-C++-FF1493?style=for-the-badge&logo=cplusplus&logoColor=white" alt="HackerRank C++" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/pooja_lingwat101" target="_blank">
-    <img src="https://hrcdn.net/fcore/assets/badges/sql-badge-60098f99e4.png" width="95" alt="HackerRank SQL" title="HackerRank SQL" />
+    <img src="https://img.shields.io/badge/HackerRank-SQL-FFAE42?style=for-the-badge&logo=mysql&logoColor=white" alt="HackerRank SQL" />
   </a>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=poojawork102&show_icons=true&theme=slug&hide_border=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojawork102&layout=compact&theme=slug&hide_border=true" />
 
 </div>
