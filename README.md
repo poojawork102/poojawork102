@@ -22,6 +22,9 @@
 - **UniPocket Engine** 🚀  
   Full-stack personal finance web application built with a **Python (Flask)** backend, normalized **MySQL** schema architecture, stored procedures, and custom triggers.  
   [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://your-unipocket-demo.vercel.app)
+- **KM-Waechter — AI-Assisted Code Modernization** 🤖
+Legacy Python maintenance project completed using IBM Bob as an AI coding agent. Identified and fixed a silent integer-division bug, handled missing service readings, added regression tests, corrected fleet-report calculations, and implemented breakdown-risk analysis from historical fleet data.
+11/11 acceptance checks passing after reviewing and validating the agent-generated changes.
 
 ---
 
